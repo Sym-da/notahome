@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+background-image: url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-LKPNpgWr0u8nYx2LP1t3JSkg3avF33.png');
 # notapage
 作成者│Xem
 # notaとは
